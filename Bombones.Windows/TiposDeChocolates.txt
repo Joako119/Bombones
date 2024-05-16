@@ -1,0 +1,5 @@
+﻿1|Agridulce
+2|Blanco
+3|Leche
+4|Oscuro
+5|Puro
